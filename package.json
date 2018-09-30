@@ -1,6 +1,6 @@
 {
   "name": "ofcold-countdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is mainly used for the countdown of SMS verification code transmission.",
   "main": "src/Countdown.vue",
   "scripts": {
