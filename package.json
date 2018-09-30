@@ -1,0 +1,22 @@
+{
+  "name": "ofcold-countdown",
+  "version": "1.0.0",
+  "description": "It is mainly used for the countdown of SMS verification code transmission.",
+  "main": "src/Countdown.vue",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofcold/vue-countdown.git"
+  },
+  "author": "bill li <bill.li@ofcold.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ofcold/vue-countdown/issues"
+  },
+  "homepage": "https://github.com/ofcold/vue-countdown#readme",
+  "dependencies": {
+    "vue": "^2.5"
+  }
+}
