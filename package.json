@@ -1,6 +1,6 @@
 {
   "name": "ofcold-countdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It is mainly used for the countdown of SMS verification code transmission.",
   "main": "src/countdown.js",
   "scripts": {
