@@ -1,5 +1,5 @@
 <template>
-	<a :disabled="start" class="btn btn-link" :class="classes">
+	<a href="javascript:void(0)" :disabled="start" class="btn btn-link" :class="classes">
 		{{ content }}
 	</a>
 </template>
